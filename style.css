@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(26, 26, 26);
+    image-rendering: pixelated;
+}
+.container{
+    background-image: url('bongyum.gif');
+    padding: 100%;
+    padding-bottom: 0px;   
+}
+p{
+    color: white;
+    font-size: 80pt;
+    font-weight: bolder;
+}
